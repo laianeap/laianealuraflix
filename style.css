@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(70, 4, 50);
+    color: rgb(223, 160, 223) cor da letra do corpo da página
+}
+
+
+
+
+.chamada-texto{
+    margin-right: 100px;
+}
+
+
+img{
+    height: 200px;
+}
+
+
+.categoria-vídeos{
+display: flex;
+overflow-x:auto;
+gap: 20px;
+}
